@@ -1,0 +1,2 @@
+# pashashop
+online-magazine
